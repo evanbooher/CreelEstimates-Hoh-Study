@@ -116,6 +116,12 @@ Run in order:
    different days comparable -- something the live lookup cannot guarantee,
    VPN or not.
 
+**Every column of the variability table** is defined in
+[`T2_DATA_DICTIONARY.md`](T2_DATA_DICTIONARY.md) -- what each field is, how it
+is calculated, and what it tells you, with a worked Snohomish example
+throughout. Read it before quoting a tau, an I-squared or a prediction interval
+to anyone.
+
 **Data issues found along the way** are recorded in
 [`DATA_ISSUES.md`](DATA_ISSUES.md) — findings about the underlying creel data
 rather than this analysis's code. The first one, missing closure records,
